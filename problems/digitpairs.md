@@ -34,3 +34,5 @@ OUTPUT
 
 one integer value denaoting number of bit pairs 
 
+
+[My solution](../solutions/digitpairs.cpp)
