@@ -24,7 +24,7 @@ AS the nnumber can be  huge give output modulo  1000000007
 
 
 My SOLUTION:
-    [Problems](solutions/uncertainsteps.cpp)
+    [uncertainsteps](../solutions/uncertainsteps.cpp)
     
 
     
