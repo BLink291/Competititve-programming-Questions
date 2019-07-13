@@ -21,3 +21,8 @@ OUTPUT
 Number of ways to reach the ground 
 AS the nnumber can be  huge give output modulo  1000000007
 
+
+
+My SOLUTION:
+
+    https://github.com/BLink291/Codevita-Hackwithinfi-solutions/solutions/uncertainsteps.cpp
