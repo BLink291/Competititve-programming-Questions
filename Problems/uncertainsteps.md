@@ -25,6 +25,6 @@ AS the nnumber can be  huge give output modulo  1000000007
 
 My SOLUTION:
     
-    [a link](https://github.com/BLink291/Codevita-Hackwithinfi-solutions/solutions/uncertainsteps.cpp)
+    #https://github.com/BLink291/Codevita-Hackwithinfi-solutions/solutions/uncertainsteps.cpp
 
     
