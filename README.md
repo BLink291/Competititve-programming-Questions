@@ -3,6 +3,7 @@
 This Repository will contain Problems asked in various competitive exams. The purpose of this repo is to serve as a backup and 
 also to help those looking for help/clues to solve these problems.
 Feel free to add more questions and solutions to existing problem if you have a better sollutions.  
+Most of my solutions will be in c++.
 
 
 
