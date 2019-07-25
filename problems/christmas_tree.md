@@ -71,4 +71,4 @@ Output:
 
 ![output](images/Codevita_Christmas_tree3.png)
 
-[My solution](solutions/christmas_tree.cpp)
+[My solution](/solutions/christmas_tree.cpp)
