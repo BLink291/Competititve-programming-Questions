@@ -23,7 +23,7 @@ Rules:
 6. Difference in number of branches between second from top and bottom-most part will be 1.
 
 Example:
-![Example](Codevita_Christmas_tree1.png)
+![Example](images/Codevita_Christmas_tree1.png)
 
 
 Input Format:
@@ -53,4 +53,4 @@ Input:
 
 Output:
 
-![output](Codevita_Christmas_tree2.png)
+![output](images/Codevita_Christmas_tree2.png)
