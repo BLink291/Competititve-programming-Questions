@@ -49,8 +49,24 @@ Constraints:
 Sample Input and Output
 
 Input:
+2
+
+Output:
+
+![output](images/Codevita_Christmas_tree4.png)
+
+
+Input:
 4
 
 Output:
 
 ![output](images/Codevita_Christmas_tree2.png)
+
+
+Input:
+5
+
+Output:
+
+![output](images/Codevita_Christmas_tree3.png)
