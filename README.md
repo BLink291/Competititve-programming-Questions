@@ -12,3 +12,5 @@ Most of my solutions will be in c++.
 2. Marathon Winner     [problem Statement](problems/marathonwinner.md)    [My solution](solutions/marathonwinner.cpp)
 3. Uncertain Steps     [problem Statement](problems/uncertainsteps.md)    [My solution](solutions/uncertainsteps.cpp)(need a better sollution for this problem.)
 4. Christmas Tree         [problem Statement](problems/christmas_tree.md)        [My solution](solutions/christmas_tree.cpp)
+5. Numbers with Non-Decreasing Digits         [problem Statement](problems/numbers_with_non_decreasing_digits.md)        [My solution](solutions/numbers_with_non_decreasing_digits.cpp)
+6. Digital Time         [problem Statement](problems/digital_time.md)        [My solution](solutions/digital_time.cpp)
